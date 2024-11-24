@@ -1,6 +1,6 @@
 # Barbearia
 
-O sistema "Barbearia" e utilizado para realizar a gestão de uma Barbearia desde o agenddamento dee seriços aate a gestão de produtos, funcionarioes e clientes 
+O sistema "Barbearia" e utilizado para realizar a gestão de uma Barbearia desde o agendamento de seriços ate a gestão de produtos, funcionarioes e clientes 
 
 *Acesso ao Sistema
 Conecte-se:
