@@ -24,63 +24,18 @@ você ver as seguintes categorias de funcionalidades do sistema.
 -Minhas Comissões
 -Horarios/Dias 
 
-O sistema pode
-Cadastro de Clientes
-Adicionar Novo Cliente:
+*O sistema pode
+Cadastrar Clientes
+Cadastrar produtos
+Cadastrar funcionarios 
+Adicionar Novo Cliente
+Caastrar serviços 
+Cdastrar horário para funcionários
+Gerar comissão de funcionários 
+Gerar agenda de serviços
 
-Acesse a aba "Clientes" e clique em **""Novo Cliente" .
-Insira as informações
-Salve o cadastro.
-Gerenciar Histórico de Clientes:
+Sistema Muito intuitivo , de facil manipulação, funciona com hospedage local e contem integração com banco de dados para armazenar dados.
 
-Clique no nome do cliente para visualizar:
-Histórico de visitas.
-Se
-Observador
-4. Gerenciamento de Serviços
-Configurar Serviços:
 
-Acesse aba "Serviços" .
-Adicione novos serviços, definindo:
-Nome do ser
-Preço.
-Duração média.
-E
-Pacotes Personalizados:
 
-Chore pac
-5. Controle de Barbeiros
-Cadastro de Barbeiros:
 
-Acesse a aba "Equipe"e clique em "Novo Barbeiro" .
-EU
-Definir leis de acesso
-Agenda de Barbeiros:
-
-Vis
-Faça ajustes de horários ou bloqueios
-6. Controle Financeiro
-Gerenciar Pagamentos:
-
-Registre pagamentos no
-Emita recibos ou notas fiscais
-Relatórios Financeiros:
-
-Acesse a aba "Relatórios" para
-Faturamento diário, semana
-Compa
-7. Personalização e configurações
-Configurações Gerais:
-
-Acesse "Configurações" para ajustar:
-Hora
-F
-Integração
-Aparência do Sistema:
-
-Personalize o layout com o logotipo da b
-8. Suporte e Ajuda
-Manual do Usuário:
-Consulte o
-Suporte Técnico:
-Para problema
